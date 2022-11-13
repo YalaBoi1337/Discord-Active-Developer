@@ -3,7 +3,7 @@ const { Client, REST, Routes, GatewayIntentBits, Partials } = require('discord.j
 const { Guilds, GuildMembers, GuildMessages } = GatewayIntentBits;
 const { Users, Messages, GuildMember, ThereadMembers } = Partials;
 
-const token = "MTA0MDkzODM0MTcxNTE1NzA1Mw.G6akgo.jes8syZXzLftlMKDoWI7xYWESt_cxlW4Ct0DhU";//Add your bot token here
+const token = "HURFUIHEIRUFHEWIURFHIEUHRFUIHEFUIRHEUIRFH";//Add your bot token here
 
 const client = new Client({
   intents: [Guilds, GuildMember, GuildMessages], 
